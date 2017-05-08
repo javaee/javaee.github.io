@@ -1,1 +1,15 @@
 theme: jekyll-theme-architect
+
+title: [Java EE]
+description: [Java Enterprise Edition]
+
+# sidebar links url
+links:
+  #download: https://github.com/javaee/
+  source: https://github.com/javaee/
+  #mailinglist:
+  #javadocs:
+  #docs:
+  #faq:
+  #mailinglist:
+  #hide_issuetracker: true #set explicitly to 'true' if you don't want to have the issue tracker link displayed
