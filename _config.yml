@@ -12,4 +12,5 @@ links:
   #docs:
   #faq:
   #mailinglist:
-  #hide_issuetracker: true #set explicitly to 'true' if you don't want to have the issue tracker link displayed
+  hide_issuetracker: true
+  
