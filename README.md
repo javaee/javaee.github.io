@@ -33,7 +33,7 @@ The following projects have been recently migrated from Java.net to GitHub.
 * [jaxb-verification](http://github.com/javaee/jaxb-verification)
 * [jax-rpc](http://github.com/javaee/jax-rpc-ri)
 * [jax-rs-spec](http://github.com/jax-rs)
-* [jax-ws](http://github.com/gf-metro/jax-ws)
+* [jax-ws](http://github.com/gf-metro/jaxws)
 * [jax-ws-commons](http://javaee.github.io/metro-jaxws-commons)
 * [jersey](http://github.com/jersey)
 * [jmsjca](http://github.com/javaee/glassfish-jmsjca)
