@@ -8,27 +8,27 @@ check for contact details associated with these project pages.
 * [adf-task-flow-tester](http://github.com/adfemg/task-flow-tester)
 * [agentsmith](http://github.com/ffissore/agentsmith)
 * [boggle](http://github.com/intere/boggle)
-* [cat-iin](http://reggaefab.free.fr/catiin/)
+* [cat-iin](http://reggaefab.free.fr/catiin/) -- not available as of May 17, 2017
 * [chinook](http://montgomerylab.stanford.edu)
 * [crawler](http://crawler.torunski.com/red.htm)
-* [electric](http://savannah.gnu.orgelectric)
+* [electric](http://savannah.gnu.org/electric) - not available as of May 17, 2017
 * [elibrary999](http://elibrary999.sourceforge.net)
 * [groovychart](http://github.com/davetcc/groovychart)
 * [java-developpez-com](http://java.developpez.com/)
-* [java-nio-charset-enhanced](http://jugkoeln.dejava-nio-charset-enhanced)
+* [java-nio-charset-enhanced](http://jugkoeln.de/java-nio-charset-enhanced) - not available as of May 17, 2017
 * [javabuild](http://javabuild.github.io/)
 * [jbatch](https://github.com/WASdev/standards.jsr352.batch-spec/wiki)
-* [jdbc-odbc-enhanced](http://jugkoeln.deJDBC-ODBC-enhanced)
+* [jdbc-odbc-enhanced](http://jugkoeln.de/JDBC-ODBC-enhanced) - not available as of May 17, 2017
 * [jdtrace](http://github.com/amithur/jdtrace.git)
 * [jemmy](http://hg.openjdk.java.net/code-tools/jemmy/v2/)
 * [jmodalwindow](http://freedumbytes.bitbucket.io/jmodalwindow.xhtml)
 * [jrecordbind](http://jrecordbind.org/)
 * [jsip](http://github.com/usnistgov/jsip)
 * [jsr-310](http://hgithub.com/ThreeTen/threeten)
-* [jxcss](http://xrrocha.netjxcss)
+* [jxcss](http://xrrocha.net/jxcss) - not available yet
 * [kijaro](http://github.com/jodastephen/kijaro)
 * [ljc-london-jug](http://community.oracle.com/docs/DOC-993612)
-* [lwuit-incubator](http://github.com/lwuit-incubator)
+* [lwuit-incubator](http://github.com/lwuit-incubator) - not available as of May 17, 2017
 * [mp3player](http://github.com/sonya-oracle/testing)
 * [ocjug](http://www.meetup.com/Orange-County-Java-Users-Group-OCJUG/)
 * [opengrok](http://github.com/OpenGrok/OpenGrok/)
