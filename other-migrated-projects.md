@@ -24,7 +24,7 @@ check for contact details associated with these project pages.
 * [jmodalwindow](http://freedumbytes.bitbucket.io/jmodalwindow.xhtml)
 * [jrecordbind](http://jrecordbind.org/)
 * [jsip](http://github.com/usnistgov/jsip)
-* [jsr-310](http://hgithub.com/ThreeTen/threeten)
+* [jsr-310](http://github.com/ThreeTen/threeten)
 * [jxcss](http://xrrocha.net/jxcss) - not available as of May 17, 2017
 * [kijaro](http://github.com/jodastephen/kijaro)
 * [ljc-london-jug](http://community.oracle.com/docs/DOC-993612)
