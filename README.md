@@ -74,4 +74,5 @@ The following Java EE projects have been recently migrated from Java.net to GitH
 * [ws-test-harness](http://javaee.github.io/metro-ws-test-harness)
 * [xmlstreambuffer](http://javaee.github.io/metro-xmlstreambuffer)
 
-Have a look at this page [Other Migrated Projects](other-migrated-projects.md) for information about additional projects that were migrated from java.net
+Have a look at this [Other Migrated Projects](other-migrated-projects.md) page for information about additional projects that were migrated from java.net
+
