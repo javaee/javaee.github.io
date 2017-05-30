@@ -32,15 +32,15 @@ A step-by-step guide to building an application that uses new and updated Java E
 
 **Dynamic, Scalable HTML5 Applications**
 
-[![Dynamic, Scalable HTML5 Applications](https://youtu.be/jkchA2WeZwA?list=PL74xrT3oGQfAai4VfDm_GOSDRCBssB9ex/0.jpg)](https://youtu.be/jkchA2WeZwA?list=PL74xrT3oGQfAai4VfDm_GOSDRCBssB9ex)
+[![Dynamic, Scalable HTML5 Applications](https://img.youtube.com/vi/jkchA2WeZwA/0.jpg)](https://youtu.be/jkchA2WeZwA?list=PL74xrT3oGQfAai4VfDm_GOSDRCBssB9ex)
 
 **Increase Developer Productivity**
 
-[![Increase Developer Productivity](https://youtu.be/NLprSmnar1k?list=PL74xrT3oGQfA21p-q34-6hzesB6Lb0nw7/0.jpg)](https://youtu.be/NLprSmnar1k?list=PL74xrT3oGQfA21p-q34-6hzesB6Lb0nw7)
+[![Increase Developer Productivity](https://img.youtube.com/vi/NLprSmnar1k/0.jpg)](https://youtu.be/NLprSmnar1k?list=PL74xrT3oGQfA21p-q34-6hzesB6Lb0nw7)
 
 **Meet Demanding Enterprise Needs**
 
-[![Meet Demanding Enterprise Needs](https://youtu.be/Bs3ZD00CcSs?list=PL74xrT3oGQfCVNAhT3JIOI3IP3gTYSVaQ/0.jpg)](https://youtu.be/Bs3ZD00CcSs?list=PL74xrT3oGQfCVNAhT3JIOI3IP3gTYSVaQ)
+[![Meet Demanding Enterprise Needs](https://img.youtube.com/vi/Bs3ZD00CcSs/0.jpg)](https://youtu.be/Bs3ZD00CcSs?list=PL74xrT3oGQfCVNAhT3JIOI3IP3gTYSVaQ)
 
 
 
