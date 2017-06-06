@@ -3,44 +3,46 @@
 The following project links are unrelated to Java EE, were formerly at Java.net. For information about these projects, please 
 check for contact details associated with these project pages.
 
-* [bean-properties](http://github.com/vprise)
-* [aadfemg-auditrules](http://bitbucket.org/adfauditrules/adfauditrules)
-* [adf-task-flow-tester](http://github.com/adfemg/task-flow-tester)
-* [agentsmith](http://github.com/ffissore/agentsmith)
-* [boggle](http://github.com/intere/boggle)
+* [bean-properties](https://github.com/vprise)
+* [aadfemg-auditrules](https://bitbucket.org/adfauditrules/adfauditrules)
+* [adf-task-flow-tester](https://github.com/adfemg/task-flow-tester)
+* [agentsmith](https://github.com/ffissore/agentsmith)
+* [boggle](https://github.com/intere/boggle)
 * [cat-iin](http://reggaefab.free.fr/catiin/) -- not available as of May 17, 2017
 * [chinook](http://montgomerylab.stanford.edu)
 * [crawler](http://crawler.torunski.com/red.htm)
 * [electric](http://savannah.gnu.org/electric) - not available as of May 17, 2017
 * [elibrary999](http://elibrary999.sourceforge.net)
-* [groovychart](http://github.com/davetcc/groovychart)
+* [groovychart](https://github.com/davetcc/groovychart)
 * [java-developpez-com](http://java.developpez.com/)
 * [java-nio-charset-enhanced](http://jugkoeln.de/java-nio-charset-enhanced) - not available as of May 17, 2017
-* [javabuild](http://javabuild.github.io/)
+* [javabuild](https://javabuild.github.io/)
 * [jbatch](https://github.com/WASdev/standards.jsr352.batch-spec/wiki)
 * [jdbc-odbc-enhanced](http://jugkoeln.de/JDBC-ODBC-enhanced) - not available as of May 17, 2017
-* [jdtrace](http://github.com/amithur/jdtrace.git)
+* [jdtrace](https://github.com/amithur/jdtrace.git)
 * [jemmy](http://hg.openjdk.java.net/code-tools/jemmy/v2/)
 * [jmodalwindow](http://freedumbytes.bitbucket.io/jmodalwindow.xhtml)
 * [jrecordbind](http://jrecordbind.org/)
 * [jsip](http://github.com/usnistgov/jsip)
-* [jsr-310](http://hgithub.com/ThreeTen/threeten)
+* [jsr-310](http://github.com/ThreeTen/threeten)
+* [jsip](https://github.com/usnistgov/jsip)
+* [jsr-310](https://github.com/ThreeTen/threeten)
 * [jxcss](http://xrrocha.net/jxcss) - not available as of May 17, 2017
-* [kijaro](http://github.com/jodastephen/kijaro)
+* [kijaro](https://github.com/jodastephen/kijaro)
 * [ljc-london-jug](http://community.oracle.com/docs/DOC-993612)
-* [lwuit-incubator](http://github.com/lwuit-incubator) - not available as of May 17, 2017
-* [mp3player](http://github.com/sonya-oracle/testing)
-* [ocjug](http://www.meetup.com/Orange-County-Java-Users-Group-OCJUG/)
-* [opengrok](http://github.com/OpenGrok/OpenGrok/)
+* [lwuit-incubator](https://github.com/lwuit-incubator) - not available as of May 17, 2017
+* [mp3player](https://github.com/sonya-oracle/testing)
+* [ocjug](https://www.meetup.com/Orange-County-Java-Users-Group-OCJUG/)
+* [opengrok](https://github.com/OpenGrok/OpenGrok/)
 * [oreganno](http://montgomerylab.stanford.edu)
-* [rearranger](http://github.com/DaveKriewall/Rearranger)
-* [shampoo](http://bitbucket.org/ddc_r/shampoo)
-* [sonarqube-ojaudit](http://github.com/adfemg/sonarqube-ojaudit)
+* [rearranger](https://github.com/DaveKriewall/Rearranger)
+* [shampoo](https://bitbucket.org/ddc_r/shampoo)
+* [sonarqube-ojaudit](https://github.com/adfemg/sonarqube-ojaudit)
 * [spots-hardware](http://theexperimenter.org/spot)
-* [svgsalamander](http://github.com/blackears/svgSalamander/wiki)
-* [tabifier](http://github.com/DaveKriewall/Tabifier)
-* [webdav](http://gitlab.com/headcrashing/webdav-jaxrs)
-* [worldclock-application](http://github.com/lhochet/worldclock)
+* [svgsalamander](https://github.com/blackears/svgSalamander/wiki)
+* [tabifier](https://github.com/DaveKriewall/Tabifier)
+* [webdav](https://gitlab.com/headcrashing/webdav-jaxrs)
+* [worldclock-application](https://github.com/lhochet/worldclock)
 
 # Archived projects
 
