@@ -17,7 +17,6 @@ check for contact details associated with these project pages.
 * [java-developpez-com](http://java.developpez.com/)
 * [java-nio-charset-enhanced](http://jugkoeln.de/java-nio-charset-enhanced) - not available as of May 17, 2017
 * [javabuild](http://javabuild.github.io/)
-* [jbatch](https://github.com/WASdev/standards.jsr352.batch-spec/wiki)
 * [jdbc-odbc-enhanced](http://jugkoeln.de/JDBC-ODBC-enhanced) - not available as of May 17, 2017
 * [jdtrace](http://github.com/amithur/jdtrace.git)
 * [jemmy](http://hg.openjdk.java.net/code-tools/jemmy/v2/)
