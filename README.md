@@ -35,6 +35,7 @@ The following Java EE projects have been recently migrated from Java.net to GitH
 * [jax-rs-spec](http://github.com/jax-rs)
 * [jax-ws](https://github.com/javaee/metro-jax-ws)
 * [jax-ws-commons](http://javaee.github.io/metro-jaxws-commons)
+* [jbatch](https://github.com/WASdev/standards.jsr352.batch-spec/wiki)
 * [jersey](http://github.com/jersey)
 * [jmsjca](http://github.com/javaee/glassfish-jmsjca)
 * [jms-spec](http://javaee.github.io/jms-spec)
