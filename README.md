@@ -1,6 +1,6 @@
 # Key Java EE resources
 
-* [Java EE Platform Specification/](https://javaee.github.io/javaee-spec/)
+* [Java EE Platform Specification](https://javaee.github.io/javaee-spec/)
 * [GlassFish, the Open Source Java EE Reference Implementation/](https://javaee.github.io/glassfish/)
 
 # Migrated Projects
