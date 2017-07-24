@@ -1,3 +1,7 @@
+# Java EE Platform Specification
+
+Check [https://javaee.github.io/javaee-spec/](https://javaee.github.io/javaee-spec/).
+
 # Migrated Projects
 
 The following Java EE projects have been recently migrated from Java.net to GitHub.
