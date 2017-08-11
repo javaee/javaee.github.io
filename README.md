@@ -7,7 +7,7 @@
 
 # Migrated Projects
 
-The following Java EE projects have been recently migrated from Java.net to GitHub.
+The following Java EE projects were migrated from Java.net to GitHub.
 
 * [cargotracker](http://javaee.github.io/cargotracker)
 * [codemodel](http://javaee.github.io/jaxb-codemodel)
@@ -34,7 +34,7 @@ The following Java EE projects have been recently migrated from Java.net to GitH
 * [javaee-spec](http://javaee.github.io/javaee-spec)
 * [javahelp](http://javaee.github.io/javahelp)
 * [javamail](http://javaee.github.io/javamail)
-* [javaserverfaces](http://javaee.github.io/javaserverfaces-spec)
+* [javaserfaces-spec-public](http://javaee.github.io/javaserverfaces-spec)
 * [jaxb](https://github.com/javaee/jaxb-v2)
 * [jaxb2-commons](http://github.com/javaee/jaxb2-commons)
 * [jaxb-verification](http://github.com/javaee/jaxb-verification)
