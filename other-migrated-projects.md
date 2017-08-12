@@ -54,7 +54,7 @@ our discussion list at *glassfish at javaee dot groups dot io* (you must be a me
 |gf-repo|gf-tooling|glassfish-repo|glassfish-scripting|
 |grizzly-servlet-container|hj3|hk2-gradle-plugin|http-client|
 |hypercompass|hyperjaxb3|hyperubl|japex|
-|javaeetutorial|javaserverfaces-sources|javaserverfaces-spec-eg|javaserverfaces-spec-public|
+|javaeetutorial|javaserverfaces-sources|javaserverfaces-spec-eg| |
 |java-state-managemen|java-state-mgmt-ri|jaxb2-reflection|jaxb2-sources|
 |jaxb-architecture-document|jaxbhelp|jaxb-tck|jaxp|
 |jaxp-sources|jax-rpc-sources|jax-rpc-tck|jax-ws-sources|
