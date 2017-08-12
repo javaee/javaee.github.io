@@ -34,6 +34,7 @@ The following Java EE projects were migrated from Java.net to GitHub.
 * [javaee-spec](http://javaee.github.io/javaee-spec)
 * [javahelp](http://javaee.github.io/javahelp)
 * [javamail](http://javaee.github.io/javamail)
+* [javaserfaces](http://javaserverfaces.github.io)
 * [javaserfaces-spec-public](http://javaee.github.io/javaserverfaces-spec)
 * [jaxb](https://github.com/javaee/jaxb-v2)
 * [jaxb2-commons](http://github.com/javaee/jaxb2-commons)
