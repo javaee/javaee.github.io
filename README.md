@@ -3,6 +3,7 @@
 * Java EE Platform [Specification](https://javaee.github.io/javaee-spec/)
 * [GlassFish](https://javaee.github.io/glassfish/), the Open Source Java EE Reference Implementation
 * Official Java EE [discussion groups](https://javaee.groups.io/g/javaee)
+* Java EE [Javadocs](https://javaee.github.io/javaee-spec/javadocs/)
 * Java.net mailing list [archives](http://download.oracle.com/javaee-archive/)
 
 # Migrated Projects
