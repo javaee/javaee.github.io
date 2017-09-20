@@ -4,6 +4,7 @@
 * [GlassFish](https://javaee.github.io/glassfish/), the Open Source Java EE Reference Implementation
 * Official Java EE [discussion groups](https://javaee.groups.io/g/javaee)
 * Java EE [Javadocs](https://javaee.github.io/javaee-spec/javadocs/)
+* Java EE API [Maven coordinates](https://mvnrepository.com/artifact/javax/javaee-api/8.0)
 * Java.net mailing list [archives](http://download.oracle.com/javaee-archive/)
 
 # Migrated Projects
