@@ -50,11 +50,11 @@ our discussion list at *glassfish at javaee dot groups dot io* (you must be a me
 |:------|:------|:------|:------|
 |ajax|atmosphere|avatar|avatar-js|
 |certadmin|embedded-glassfish|facelets|fi-interop|
-|firscup|fuji|gf-cdi-porting-tck|gf-maven-plugin|
+|fuji|gf-cdi-porting-tck|gf-maven-plugin| |
 |gf-repo|gf-tooling|glassfish-repo|glassfish-scripting|
 |grizzly-servlet-container|hj3|hk2-gradle-plugin|http-client|
 |hypercompass|hyperjaxb3|hyperubl|japex|
-|javaeetutorial|javaserverfaces-sources|javaserverfaces-spec-eg| |
+|javaserverfaces-sources|javaserverfaces-spec-eg| | |
 |java-state-managemen|java-state-mgmt-ri|jaxb2-reflection|jaxb2-sources|
 |jaxb-architecture-document|jaxbhelp|jaxb-tck|jaxp|
 |jaxp-sources|jax-rpc-sources|jax-rpc-tck|jax-ws-sources|
