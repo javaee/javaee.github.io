@@ -28,7 +28,7 @@ The following Java EE projects were migrated from Java.net to GitHub.
 * [gmbal](http://javaee.github.io/gmbal)
 * [grizzly](http://javaee.github.io/grizzly)
 * [hk2](https://javaee.github.io/hk2/)
-* [interceptors-spec](http://github.com/javaee/interceptors-spec)
+* [interceptors-spec](https://javaee.github.io/interceptors-spec/)
 * [istack-commons](http://javaee.github.io/jaxb-istack-commons)
 * [jacc-spec](http://javaee.github.io/jacc-spec)
 * [jaspic-spec](http://javaee.github.io/jaspic-spec)
