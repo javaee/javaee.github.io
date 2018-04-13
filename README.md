@@ -32,7 +32,7 @@ The following Java EE projects were migrated from Java.net to GitHub.
 * [istack-commons](http://javaee.github.io/jaxb-istack-commons)
 * [jacc-spec](http://javaee.github.io/jacc-spec)
 * [jaspic-spec](http://javaee.github.io/jaspic-spec)
-* [javaee7-samples](http://github.com/javaee/javaee7-samples)
+* [javaee7-samples](https://javaee.github.io/security-spec/)
 * [javaee-security-spec](https://github.com/javaee/security-spec)
 * [javaee-spec](http://javaee.github.io/javaee-spec)
 * [javaeetutorial](https://github.com/javaee/tutorial)
