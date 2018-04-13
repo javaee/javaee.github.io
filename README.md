@@ -35,7 +35,7 @@ The following Java EE projects were migrated from Java.net to GitHub.
 * [javaee7-samples](https://javaee.github.io/javaee7-samples/)
 * [javaee-security-spec](https://javaee.github.io/security-spec/)
 * [javaee-spec](http://javaee.github.io/javaee-spec)
-* [javaeetutorial](https://github.com/javaee/tutorial)
+* [javaeetutorial](https://javaee.github.io/tutorial/)
 * [javahelp](http://javaee.github.io/javahelp)
 * [javamail](http://javaee.github.io/javamail)
 * [javaservefaces](http://javaserverfaces.github.io)
