@@ -1,8 +1,18 @@
+# Legacy Java EE Home
+
+The Java EE project has been contributed to Eclipse Foundation and has been renamed to Jakarta EE.
+All active work is taking place at this new location
+
++ https://projects.eclipse.org/projects/ee4j
++ https://jakarta.ee/specifications
+
+The following legacy archives are available for anyone who wishes to browse the extensive history, prior
+to contribution to Eclipse.
+
 # Key Java EE resources
 
 * Java EE Platform [Specification](https://javaee.github.io/javaee-spec/)
 * [GlassFish](https://javaee.github.io/glassfish/), the Open Source Java EE Reference Implementation
-* Official Java EE [discussion groups](https://javaee.groups.io/g/javaee)
 * Java EE [Javadocs](https://javaee.github.io/javaee-spec/javadocs/)
 * Java EE API [Maven coordinates](https://mvnrepository.com/artifact/javax/javaee-api/8.0)
 * Java.net mailing list [archives](http://download.oracle.com/javaee-archive/)
